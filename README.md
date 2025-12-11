@@ -4,12 +4,22 @@
 
 I’m a game developer who builds small games and gameplay systems in Unity using C#. I also create my own pixel art assets, animations, and visual effects, allowing me to bring entire worlds to life from both the technical and artistic side. I love making cute, cozy, and expressive game environments, and I enjoy combining code, art, and creativity to craft unique and charming digital experiences.
 
+## 🔗 Let's Connect!
+
+<p align="left">
+  <a href="https://linkedin.com/in/najlalaudy" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://nacila.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white" />
+  </a>
+</p>
 
 ## 🚀 Tech & Tools I Use
 
-<h3 align="center">Programming</h3>
+<h3 align="left">Programming</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,9 +31,9 @@ I’m a game developer who builds small games and gameplay systems in Unity usin
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-<h3 align="center">Creative</h3>
+<h3 align="left">Creative</h3>
 
-<p align="center">
+<p align="left">
 
   <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E" />
@@ -34,9 +44,17 @@ I’m a game developer who builds small games and gameplay systems in Unity usin
 
 </p>
 
-<p align="center">
+
+## 
+
+<p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Najla-Nuricia&theme=react&hide_border=false" />
 </p>
+
+
+
+
+
 
 
 
