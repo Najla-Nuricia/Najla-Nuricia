@@ -1,4 +1,4 @@
-# 🌟 Najla Nuricia
+# 🌟 Najla Nuricia Laudy 
 
 **`Game Artist / Game Developer / Technical Artist`**
 
