@@ -2,7 +2,7 @@
 
 **`Game Artist / Game Developer / Technical Artist`**
 
-I’m a game developer who builds small games and gameplay systems in Unity using C#. I also create my own pixel art assets, animations, and still learning visual effects, allowing me to bring entire worlds to life from both the technical and artistic side. I love making cute, cozy, and expressive game environments, and I enjoy combining code, art, and creativity to craft unique and charming digital experiences.
+I’m a game developer who builds small games and gameplay systems in Unity using C#. I also create my own pixel art assets, animations, and still learning visual effects. I love making cute, cozy, and expressive game environments, and I enjoy combining code, art, and creativity to craft unique and charming digital experiences.
 
 ## 🔗 Let's Connect!
 
